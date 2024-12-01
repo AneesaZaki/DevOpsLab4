@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -44,12 +48,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StringLibrary",
+              "Title": "StringLibrary.csproj",
               "DocumentMoniker": "D:\\DevOps\\Lab4DevOps\\StringLibrary\\StringLibrary.csproj",
               "RelativeDocumentMoniker": "StringLibrary\\StringLibrary.csproj",
               "ToolTip": "D:\\DevOps\\Lab4DevOps\\StringLibrary\\StringLibrary.csproj",
               "RelativeToolTip": "StringLibrary\\StringLibrary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-01T18:48:50.741Z",
               "EditorCaption": ""
@@ -64,12 +68,7 @@
               "RelativeToolTip": "StringLibrary\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T18:46:59.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-12-01T18:46:59.486Z"
             }
           ]
         }
