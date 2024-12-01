@@ -13,9 +13,9 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("YourName")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("A short description of your package")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Checks if a string starts with an uppercase letter.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5323ea035990c38e3d282c4fbcdba02cec79a9dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b05cbd8a6a82aff613e4e1206e47bb0c3f858eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

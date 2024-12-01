@@ -1,0 +1,12 @@
+D:\DevOps\Lab4DevOps\StringLibrary\bin\Release\net8.0\StringLibrary.deps.json
+D:\DevOps\Lab4DevOps\StringLibrary\bin\Release\net8.0\StringLibrary.dll
+D:\DevOps\Lab4DevOps\StringLibrary\bin\Release\net8.0\StringLibrary.pdb
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\StringLibrary.AssemblyInfoInputs.cache
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\StringLibrary.AssemblyInfo.cs
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\StringLibrary.sourcelink.json
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\StringLibrary.dll
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\refint\StringLibrary.dll
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\StringLibrary.pdb
+D:\DevOps\Lab4DevOps\StringLibrary\obj\Release\net8.0\ref\StringLibrary.dll
