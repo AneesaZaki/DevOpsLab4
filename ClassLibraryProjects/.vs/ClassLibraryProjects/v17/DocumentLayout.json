@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\DevOps\\Lab4DevOps\\ClassLibraryProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40CDEEE7-E60F-4C4E-A532-EF9BB75022C8}|StringLibrary\\StringLibrary.csproj|d:\\devops\\lab4devops\\classlibraryprojects\\stringlibrary\\stringlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{40CDEEE7-E60F-4C4E-A532-EF9BB75022C8}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\stringlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30692B20-DDDD-49BD-A233-83B979BB3547}|ShowCase\\ShowCase.csproj|d:\\devops\\lab4devops\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30692B20-DDDD-49BD-A233-83B979BB3547}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40CDEEE7-E60F-4C4E-A532-EF9BB75022C8}|StringLibrary\\StringLibrary.csproj|d:\\devops\\lab4devops\\classlibraryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40CDEEE7-E60F-4C4E-A532-EF9BB75022C8}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CDEEE7-E60F-4C4E-A532-EF9BB75022C8}|StringLibrary\\StringLibrary.csproj|d:\\devops\\lab4devops\\classlibraryprojects\\stringlibrary\\stringlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40CDEEE7-E60F-4C4E-A532-EF9BB75022C8}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\stringlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,8 +30,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StringLibrary",
+              "DocumentIndex": 2,
+              "Title": "StringLibrary.csproj",
               "DocumentMoniker": "D:\\DevOps\\Lab4DevOps\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
               "RelativeDocumentMoniker": "StringLibrary\\StringLibrary.csproj",
               "ToolTip": "D:\\DevOps\\Lab4DevOps\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
@@ -43,26 +43,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevOps\\Lab4DevOps\\ClassLibraryProjects\\ShowCase\\Program.cs",
               "RelativeDocumentMoniker": "ShowCase\\Program.cs",
               "ToolTip": "D:\\DevOps\\Lab4DevOps\\ClassLibraryProjects\\ShowCase\\Program.cs",
               "RelativeToolTip": "ShowCase\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T00:19:20.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\DevOps\\Lab4DevOps\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
               "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
               "ToolTip": "D:\\DevOps\\Lab4DevOps\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
               "RelativeToolTip": "StringLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T00:17:18.83Z",
               "EditorCaption": ""
